@@ -1,1 +1,2 @@
 print('kwai')
+input('Sup: ')
